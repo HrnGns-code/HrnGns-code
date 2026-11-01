@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="14" viewBox="0 0 1200 14" role="img" aria-labelledby="title">
-<title id="title">HrnLabs turuncu ve yeşil ayraç</title>
+<title id="title">HrnLabs orange and green divider</title>
 <defs><linearGradient id="brand"><stop stop-color="#F06022"/><stop offset="1" stop-color="#9BCC4C"/></linearGradient>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101821"/><stop offset="1" stop-color="#080C12"/></linearGradient>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C8D6E5" stroke-opacity=".045"/></pattern></defs>

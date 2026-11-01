@@ -1,8 +1,8 @@
 <!--
 HARUN GÜNEŞ / HRNLABS PROFILE
-KURULUM: Bu dosyadaki GITHUB_USERNAME değerlerini kendi GitHub kullanıcı adınla değiştir.
-Tam görünüm için ZIP içindeki assets/, scripts/ ve .github/ klasörlerini de yükle.
-Gerçek proje bağlantıları paylaşılmadığından proje adları kasıtlı olarak linksizdir.
+GitHub username: HrnGns-code
+Upload assets/, scripts/ and .github/ alongside this README to preserve the full design.
+Project names are intentionally unlinked until verified repository or store URLs are available.
 -->
 
 <div align="center">
@@ -16,131 +16,131 @@ Gerçek proje bağlantıları paylaşılmadığından proje adları kasıtlı ol
 <br />
 <br />
 
-**IT altyapısı &nbsp; / &nbsp; SaaS ürünleri &nbsp; / &nbsp; Oyun geliştirme &nbsp; / &nbsp; Otomasyon**
+**IT Infrastructure &nbsp; / &nbsp; SaaS Products &nbsp; / &nbsp; Game Development &nbsp; / &nbsp; Automation**
 
-[GitHub profilim](https://github.com/GITHUB_USERNAME) &nbsp; · &nbsp; [Projeler](#hrnlabs) &nbsp; · &nbsp; [Teknolojiler](#teknolojiler) &nbsp; · &nbsp; [Kurulum](#profil-kurulumu)
+[My GitHub](https://github.com/HrnGns-code) &nbsp; · &nbsp; [Projects](#hrnlabs) &nbsp; · &nbsp; [Tech Stack](#tech-stack) &nbsp; · &nbsp; [Setup](#profile-setup)
 
 </div>
 
 <br />
 
-## ⚡ Merhaba, ben Harun.
+## ⚡ Hey, I'm Harun.
 
-Siirt, Türkiye’den bir **IT Specialist Assistant** ve ürün geliştiricisiyim. Kurumsal altyapıda edindiğim pratiği; **SaaS ürünlerine, self-hosted sistemlere, otomasyonlara ve çok oyunculu oyunlara** taşıyorum.
+I'm an **IT Specialist Assistant** and product builder. I bring hands-on experience in enterprise infrastructure to **SaaS products, self-hosted systems, automation and multiplayer games**.
 
-**HrnLabs’i, global ölçekte etki yaratan kalıcı ürünler ve sistemler inşa etme vizyonuyla geliştiriyorum.** Odağım; tekrar eden işleri otomatikleştirmek, uzun vadeli değer üretmek ve fikirleri sürdürülebilir ürünlere dönüştürmek.
+**I'm building HrnLabs with a vision of creating lasting products and systems that make a global impact.** My focus is on automating repetitive work, creating long-term value and turning ideas into sustainable products.
 
-> **Kurduğum sistemlerin, harcadığım zamandan daha uzun süre değer üretmesini istiyorum.**
+> **I want the systems I build to keep creating value long after the work is done.**
 
-| Çalışma alanım | Pratiğim |
+| What I work on | Hands-on experience |
 | :--- | :--- |
-| 🛡️ **Kurumsal IT** | Active Directory, GPO, Exchange Online, FortiGate firewall ve uç nokta güvenliği yönetimi |
-| 🧩 **Ürün & mimari** | API geliştirme, PostgreSQL, schema-per-tenant yaklaşımı ve yapay zekâ odaklı SaaS |
-| ⚙️ **Operasyon & otomasyon** | Self-hosted açık kaynak sistemler, otomasyon scriptleri ve CLI odaklı iş akışları |
-| 🎮 **Oyun geliştirme** | Unity 6, URP, Netcode for GameObjects ve özel Raycast fizik scriptleri |
+| 🛡️ **Enterprise IT** | Active Directory, GPO, Exchange Online, FortiGate firewalls and endpoint security management |
+| 🧩 **Products & architecture** | API development, PostgreSQL, schema-per-tenant architecture and AI-focused SaaS |
+| ⚙️ **Operations & automation** | Self-hosted open-source systems, automation scripts and CLI-driven workflows |
+| 🎮 **Game development** | Unity 6, URP, Netcode for GameObjects and custom raycast physics scripts |
 
 <br />
-<img src="./assets/divider.svg" width="100%" alt="Turuncu ve yeşil animasyonlu ayraç" />
+<img src="./assets/divider.svg" width="100%" alt="Animated orange and green divider" />
 
 <a name="hrnlabs"></a>
 
-## 🚀 HrnLabs / Ürün vitrini
+## 🚀 HrnLabs / Product showcase
 
 ### 🏁 Dash and Crash
 
-**3D mobil arcade combat yarış oyunu · Geliştiriliyor**
+**3D mobile arcade combat racing game · In development**
 
-Hız, çarpışma ve çok oyunculu mücadele etrafında şekillenen bir mobil oyun. **Unity 6 + Universal Render Pipeline**, **Netcode for GameObjects** ve özel **Raycast fizik scriptleri** ile geliştiriyorum.
+A mobile game built around speed, collisions and multiplayer combat. I'm developing it with **Unity 6 + Universal Render Pipeline**, **Netcode for GameObjects** and custom **raycast physics scripts**.
 
 `Unity 6` `URP` `Netcode for GameObjects` `Raycast Physics`
 
 ### 🎫 B2B SaaS IT Ticketing System
 
-**Yapay zekâ odaklı kurumsal biletleme sistemi · Geliştiriliyor**
+**AI-focused enterprise ticketing system · In development**
 
-Kurumsal IT taleplerini yönetmeye odaklanan çok kiracılı bir SaaS. **FastAPI**, **React** ve **PostgreSQL schema-per-tenant** mimarisi üzerine inşa ediyorum.
+A multi-tenant SaaS for managing enterprise IT requests. Built with **FastAPI**, **React** and **PostgreSQL schema-per-tenant** architecture.
 
 `FastAPI` `React` `PostgreSQL` `Multi-tenancy`
 
 | 🎉 VibeCheck | 🧠 BrainSprint |
 | :--- | :--- |
-| Parti ve sosyal etkileşim odaklı oyun. | Çevrimiçi, çok oyunculu trivia oyunu. |
-| **Google Play · Ağustos 2026** | **Google Play · Eylül 2026** |
+| A party game focused on social interaction. | An online multiplayer trivia game. |
+| **Google Play · August 2026** | **Google Play · September 2026** |
 
-<!-- Doğrulanmış depo veya mağaza URL'lerin hazır olduğunda yukarıdaki proje adlarına ekle. -->
-
-<br />
-<img src="./assets/divider.svg" width="100%" alt="Turuncu ve yeşil animasyonlu ayraç" />
-
-<a name="teknolojiler"></a>
-
-## 🧰 Teknoloji radarım
-
-<img src="./assets/stack-build.svg" width="100%" alt="Animasyonlu rozetler: Python, TypeScript, FastAPI, Flask, PyQt6, React, Next.js, PostgreSQL ve SQL" />
-
-<img src="./assets/stack-deploy.svg" width="100%" alt="Animasyonlu rozetler: Docker, Coolify, Cloudflare Tunnels ve Bash" />
-
-<img src="./assets/stack-workflow.svg" width="100%" alt="Animasyonlu rozetler: Kubuntu, KDE Plasma, NoMachine, Tailscale, SSH anahtarları ve OpenCode CLI" />
-
-<img src="./assets/stack-games.svg" width="100%" alt="Animasyonlu rozetler: Unity 6, URP, Netcode for GameObjects ve Raycast Physics" />
-
-**Günlük yaklaşımım:** CLI ile çalışmak, açık kaynak bileşenleri kendi altyapımda barındırmak ve tekrar eden işleri scriptlerle çözmek. OpenCode’u **CLI** üzerinden kullanıyorum.
+<!-- Add verified repository or store URLs to the project names when available. -->
 
 <br />
+<img src="./assets/divider.svg" width="100%" alt="Animated orange and green divider" />
 
-## 🛡️ Güvenlik pratiği
+<a name="tech-stack"></a>
 
-Kurumsal altyapı ve uç nokta güvenliğinin yanında, **UlakCX için şirket içi phishing simülasyonları ve güvenlik eğitimleri** üzerinde çalıştım. Teknik altyapının insan farkındalığıyla birlikte güçlenmesini önemsiyorum.
+## 🧰 My tech stack
+
+<img src="./assets/stack-build.svg" width="100%" alt="Animated badges: Python, TypeScript, FastAPI, Flask, PyQt6, React, Next.js, PostgreSQL and SQL" />
+
+<img src="./assets/stack-deploy.svg" width="100%" alt="Animated badges: Docker, Coolify, Cloudflare Tunnels and Bash" />
+
+<img src="./assets/stack-workflow.svg" width="100%" alt="Animated badges: Kubuntu, KDE Plasma, NoMachine, Tailscale, SSH keys and OpenCode CLI" />
+
+<img src="./assets/stack-games.svg" width="100%" alt="Animated badges: Unity 6, URP, Netcode for GameObjects and Raycast Physics" />
+
+**My everyday approach:** work from the CLI, self-host open-source tools and automate repetitive tasks with scripts. I use OpenCode through its **CLI**.
 
 <br />
-<img src="./assets/divider.svg" width="100%" alt="Turuncu ve yeşil animasyonlu ayraç" />
+
+## 🛡️ Security in practice
+
+Alongside enterprise infrastructure and endpoint security, I've worked on **internal phishing simulations and security awareness training for UlakCX**. I care about strengthening both technical systems and the people who use them.
+
+<br />
+<img src="./assets/divider.svg" width="100%" alt="Animated orange and green divider" />
 
 ## 📊 GitHub / Public signal
 
-<img src="./assets/profile-stats.svg" width="100%" alt="GitHub istatistikleri: herkese açık depolar, fork olmayan depolar, bu depolardaki toplam yıldızlar ve takipçiler. Kurulumdan sonra güncellenir." />
+<img src="./assets/profile-stats.svg" width="100%" alt="GitHub statistics: public repositories, non-fork repositories, their total stars and followers. Updated after setup." />
 
-<sub>GitHub Actions ile yenilenir. Yıldız sayısı, hesabıma ait herkese açık ve fork olmayan depoların toplamıdır. Özel depolar ve organizasyon depoları bu karta dahil değildir.</sub>
+<sub>Refreshed through GitHub Actions. Stars are summed across public, non-fork repositories owned by my account. Private repositories and organization-owned repositories are excluded.</sub>
 
 ### 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-  <img src="./assets/github-snake.svg" width="100%" alt="GitHub katkı takvimimden üretilen animasyonlu snake. İlk Actions çalışmasından sonra görünür." />
+  <img src="./assets/github-snake.svg" width="100%" alt="An animated snake generated from my GitHub contribution calendar. Available after the first successful Actions run." />
 </picture>
 
 <br />
 
 <details>
-<summary><b>☕ Terminal dışında</b></summary>
+<summary><b>☕ Beyond the terminal</b></summary>
 
 <br />
 
-- 🚶 Yüksek hacimli yürüyüşler: günde **20.000–35.000 adım**.
-- 🍝 Sıfırdan makarna hamuru, ganajlı San Sebastian cheesecake ve meyveli tatlılar.
-- 🎧 Türkçe hip-hop; özellikle Norm Ender.
-- 🌙 Karanlık fantastik evrenler: *The Sandman*, *Lucifer* ve *Shadowhunters*.
-- 🖥️ Bilgisayar ve sunucu donanımlarını yükseltmek, bileşenleri değerlendirmek.
+- 🚶 Long walks: **20,000–35,000 steps a day**.
+- 🍝 Homemade pasta, ganache-topped San Sebastian cheesecake and fruit-based desserts.
+- 🎧 Turkish hip-hop, especially Norm Ender.
+- 🌙 Dark fantasy worlds: *The Sandman*, *Lucifer* and *Shadowhunters*.
+- 🖥️ Upgrading PC and server hardware and finding the right components for the job.
 
 </details>
 
 <br />
 
-<a name="profil-kurulumu"></a>
+<a name="profile-setup"></a>
 
 <details>
-<summary><b>🔧 Profil kurulumu</b></summary>
+<summary><b>🔧 Profile setup</b></summary>
 
-### 1. Profil deposunu hazırla
+### 1. Prepare the profile repository
 
-GitHub kullanıcı adınla **aynı adı taşıyan herkese açık** bir depo oluştur. Bu `README.md` dosyasını deponun köküne koy. Dosyadaki tüm **`GITHUB_USERNAME`** alanlarını kendi kullanıcı adınla değiştir.
+Use a **public repository named `HrnGns-code`**, matching your GitHub username. Place this `README.md` at its root. The GitHub profile link is already configured for **HrnGns-code**.
 
-### 2. Tasarım dosyalarını yükle
+### 2. Upload the design files
 
-Tam paketteki `assets/`, `scripts/` ve `.github/` klasörlerini yapıları korunarak aynı depoya ekle. Banner, yazı animasyonu ve teknoloji rozetleri yerel SVG dosyalarıdır; yalnızca README dosyasını yüklemek görselleri getirmez.
+Upload the package's `assets/`, `scripts/` and `.github/` folders, preserving their structure. The banner, typing animation and tech badges are local SVG files; uploading only the README will not include them.
 
 ```text
-GITHUB_USERNAME/
+HrnGns-code/
 ├── README.md
 ├── assets/
 │   ├── hero.svg
@@ -160,15 +160,17 @@ GITHUB_USERNAME/
     └── profile-visuals.yml
 ```
 
-### 3. Snake ve istatistikleri etkinleştir
+If the upload screen rejects the hidden `.github` folder, use **Add file → Create new file**, enter **`.github/workflows/profile-visuals.yml`** as the filename, paste the workflow below and commit it. GitHub will create the folders from the path.
 
-Paketin içindeki **`.github/workflows/profile-visuals.yml`** dosyasını yükle. **Settings → Actions → General → Workflow permissions → Read and write permissions** seçeneğini etkinleştir; ardından **Actions → Refresh profile visuals → Run workflow** yolunu izle. Depo veya organizasyon politikalarının bu izne izin vermesi gerekir.
+### 3. Enable the snake and statistics
 
-Workflow, kullanıcı adını otomatik olarak **`github.repository_owner`** değerinden alır. GitHub’ın sağladığı **`GITHUB_TOKEN`** kullanılır; kişisel erişim token’ı oluşturman gerekmez. `scripts/update_stats.py`, yalnızca Python standart kütüphanesini kullanır.
+Add **`.github/workflows/profile-visuals.yml`** from the package. Enable **Settings → Actions → General → Workflow permissions → Read and write permissions**, then select **Actions → Refresh profile visuals → Run workflow**. Repository or organization policies must allow this permission.
 
-Güncelleme her gün **06.23 Türkiye saatiyle (03.23 UTC)** planlanır; GitHub zamanlaması nedeniyle gecikebilir. İstersen elle de başlatabilirsin. İlk başarılı çalışmadan önce kartlarda kurulum mesajı görünür; örnek katkı veya uydurma istatistik gösterilmez.
+The workflow reads the username automatically from **`github.repository_owner`**. It uses GitHub's built-in **`GITHUB_TOKEN`**; no personal access token is required. `scripts/update_stats.py` uses only the Python standard library.
 
-Workflow içeriği:
+Updates are scheduled daily at **03:23 UTC** and may be delayed by GitHub's scheduler. You can also run the workflow manually. Until the first successful run, the cards display setup messages rather than fabricated statistics or sample contributions.
+
+Workflow contents:
 
 ```yaml
 name: Refresh profile visuals
@@ -225,17 +227,17 @@ jobs:
           git push origin "HEAD:${DEFAULT_BRANCH}"
 ```
 
-Workflow yalnızca üç üretilen SVG dosyasını güncelleyip deponun varsayılan dalına commit atar. Dal koruması botun doğrudan yazmasını engelliyorsa, depo kurallarına uygun bir PR akışı gerekir. `push` tetikleyicisi kullanılmadığından bot commit’leri yeni bir workflow döngüsü oluşturmaz.
+The workflow updates only the three generated SVG files and commits them to the repository's default branch. If branch protection prevents direct bot commits, use a pull request flow that complies with your repository rules. No `push` trigger is used, so bot commits do not start another workflow cycle.
 
-### 4. Son dokunuşlar
+### 4. Final touches
 
-- Gerçek proje deposu ve Google Play adreslerini ilgili proje adlarına ekle.
-- HrnLabs sitesi, e-posta ve sosyal medya adreslerini yalnızca kendi doğrulanmış bağlantılarınla ekle.
-- Renkler SVG dosyalarında **`#F06022`** ve **`#9BCC4C`** olarak tanımlı.
-- SVG hareketleri tarayıcının animasyon desteğine bağlıdır; hareketler kapalıyken içerik metni ve rozetler okunabilir kalır. Yazı animasyonunun metni ayrıca görselin alternatif açıklamasında bulunur.
-- Kurulum tamamlanınca bu açılır bölümü silebilirsin.
+- Add verified repository and Google Play URLs to the relevant project names.
+- Add your HrnLabs website, email or social profiles only when you have the correct URLs.
+- Brand colors are **`#F06022`** and **`#9BCC4C`** in the SVG files.
+- SVG motion depends on browser animation support. The banner text and badges remain readable without motion; the typing text also appears in its image's alternative description.
+- You can remove this setup section once everything is configured.
 
-**Kaynaklar:** [GitHub profil README kurulumu](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) · [Platane/snk](https://github.com/Platane/snk) · [GitHub kullanıcı API’si](https://docs.github.com/en/rest/users/users#get-a-user) · [GitHub depo API’si](https://docs.github.com/en/rest/repos/repos#list-repositories-for-a-user)
+**References:** [GitHub profile README setup](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) · [Creating files and folders on GitHub](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) · [Platane/snk](https://github.com/Platane/snk) · [GitHub users API](https://docs.github.com/en/rest/users/users#get-a-user) · [GitHub repositories API](https://docs.github.com/en/rest/repos/repos#list-repositories-for-a-user)
 
 </details>
 
@@ -243,6 +245,6 @@ Workflow yalnızca üç üretilen SVG dosyasını güncelleyip deponun varsayıl
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="HrnLabs — Kalıcı ürünler. Otomatik sistemler. Global etki." />
+<img src="./assets/footer.svg" width="100%" alt="HrnLabs — Lasting products. Automated systems. Global impact." />
 
 </div>
