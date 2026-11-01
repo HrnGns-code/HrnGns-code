@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-labelledby="title">
+<title id="title">Building products. Automating systems. Thinking long-term.</title>
+<defs><clipPath id="type"><rect x="58" y="15" width="1080" height="56"><animate attributeName="width" values="0;1080;1080;0" keyTimes="0;.35;.88;1" dur="6s" repeatCount="indefinite"/></rect></clipPath></defs>
+
+<rect x="1" y="1" width="1198" height="84" rx="14" fill="#101721" stroke="#273442"/>
+<text x="24" y="53" fill="#F06022" font-size="26" font-family="Consolas, monospace">&gt;</text>
+<g clip-path="url(#type)"><text x="58" y="53" fill="#C9E6A2" font-size="25" font-family="Consolas, monospace">Building products. Automating systems. Thinking long-term.</text></g>
+
+</svg>

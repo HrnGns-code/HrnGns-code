@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title">
+<title id="title">Harun Güneş · HrnLabs · Systems, products, long-term impact</title>
+<defs><linearGradient id="brand"><stop stop-color="#F06022"/><stop offset="1" stop-color="#9BCC4C"/></linearGradient>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101821"/><stop offset="1" stop-color="#080C12"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#C8D6E5" stroke-opacity=".045"/></pattern></defs>
+
+<rect x="1" y="1" width="1198" height="388" rx="26" fill="url(#bg)" stroke="#283442"/>
+<rect x="2" y="2" width="1196" height="386" rx="26" fill="url(#grid)"/>
+<path d="M35 2H1165" stroke="url(#brand)" stroke-width="3"/>
+<circle cx="1010" cy="185" r="160" fill="none" stroke="#F06022" stroke-opacity=".17" stroke-width="2"/>
+<circle cx="1010" cy="185" r="120" fill="none" stroke="#9BCC4C" stroke-opacity=".16" stroke-width="2" stroke-dasharray="6 15">
+<animateTransform attributeName="transform" type="rotate" from="0 1010 185" to="360 1010 185" dur="60s" repeatCount="indefinite"/></circle>
+<circle r="5" fill="#9BCC4C"><animateMotion dur="18s" repeatCount="indefinite" path="M1170 185 A160 160 0 1 1 850 185 A160 160 0 1 1 1170 185"/></circle>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="54" y="62" fill="#9BCC4C" font-size="16" font-weight="700" letter-spacing="5">HRNLABS / BUILDER'S LOG</text>
+<text x="49" y="149" fill="#F3F6FA" font-size="76" font-weight="800" letter-spacing="-3">HARUN GÜNEŞ</text>
+<text x="54" y="201" fill="url(#brand)" font-size="30" font-weight="600">Systems. Products. Long-term impact.</text>
+<text x="54" y="248" fill="#A9B8C9" font-size="20">IT Specialist Assistant · Product Builder</text>
+<rect x="54" y="283" width="144" height="38" rx="19" fill="#9BCC4C" fill-opacity=".09" stroke="#9BCC4C" stroke-opacity=".35"/>
+<circle cx="73" cy="302" r="4" fill="#9BCC4C"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+<text x="87" y="308" fill="#C6E49A" font-size="15" font-weight="600">Siirt, Türkiye</text>
+<text x="219" y="307" fill="#A9B8C9" font-size="16">BUILD → AUTOMATE → SCALE</text>
+</g>
+<g transform="translate(770 87)">
+<rect width="375" height="226" rx="15" fill="#0C121B" stroke="#34414E"/>
+<path d="M0 42H375" stroke="#283442"/>
+<circle cx="21" cy="21" r="4" fill="#F06022"/><circle cx="37" cy="21" r="4" fill="#9BCC4C"/><circle cx="53" cy="21" r="4" fill="#607080"/>
+<g font-family="Consolas, monospace" font-size="17">
+<text x="20" y="79" fill="#9BCC4C">$ whoami</text>
+<text x="20" y="110" fill="#E5EDF5">harun / hrnlabs</text>
+<text x="20" y="151" fill="#9BCC4C">$ mission</text>
+<text x="20" y="182" fill="#B6C4D4">build systems that last</text>
+<rect x="20" y="198" width="9" height="14" fill="#F06022"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</g></g>
+<rect x="54" y="358" width="1092" height="2" rx="1" fill="#283442"/>
+<rect x="54" y="358" width="160" height="2" fill="url(#brand)"><animate attributeName="x" values="54;986;54" dur="12s" repeatCount="indefinite"/></rect>
+
+</svg>

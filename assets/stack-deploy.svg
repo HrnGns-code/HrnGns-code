@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="198" viewBox="0 0 1200 198" role="img" aria-labelledby="title">
+<title id="title">02 / DEPLOYMENT &amp; AUTOMATION · Docker, Coolify, Cloudflare Tunnels, Bash</title>
+<defs></defs>
+<rect x="1" y="1" width="1198" height="196" rx="17" fill="#101721" stroke="#273442"/>
+<text x="26" y="36" fill="#9DADBF" font-family="Consolas, monospace" font-size="17" letter-spacing="2">02 / DEPLOYMENT &amp; AUTOMATION</text>
+<g transform="translate(26 56)">
+<rect width="369" height="49" rx="10" fill="#16202C" stroke="#F06022" stroke-opacity=".27"><animate attributeName="stroke-opacity" values=".2;.8;.2" dur="5s" begin="0.0s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="49" height="33" rx="7" fill="#F06022" fill-opacity=".12"/>
+<text x="32" y="30" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#F06022">DK</text>
+<text x="71" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E6EDF5">Docker</text>
+<circle cx="350" cy="24" r="3" fill="#F06022"><animate attributeName="opacity" values=".35;1;.35" dur="4s" begin="0.0s" repeatCount="indefinite"/></circle></g>
+<g transform="translate(415 56)">
+<rect width="369" height="49" rx="10" fill="#16202C" stroke="#9BCC4C" stroke-opacity=".27"><animate attributeName="stroke-opacity" values=".2;.8;.2" dur="5s" begin="0.35s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="49" height="33" rx="7" fill="#9BCC4C" fill-opacity=".12"/>
+<text x="32" y="30" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#9BCC4C">CL</text>
+<text x="71" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E6EDF5">Coolify</text>
+<circle cx="350" cy="24" r="3" fill="#9BCC4C"><animate attributeName="opacity" values=".35;1;.35" dur="4s" begin="0.25s" repeatCount="indefinite"/></circle></g>
+<g transform="translate(804 56)">
+<rect width="369" height="49" rx="10" fill="#16202C" stroke="#F06022" stroke-opacity=".27"><animate attributeName="stroke-opacity" values=".2;.8;.2" dur="5s" begin="0.7s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="49" height="33" rx="7" fill="#F06022" fill-opacity=".12"/>
+<text x="32" y="30" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#F06022">CF</text>
+<text x="71" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E6EDF5">Cloudflare Tunnels</text>
+<circle cx="350" cy="24" r="3" fill="#F06022"><animate attributeName="opacity" values=".35;1;.35" dur="4s" begin="0.5s" repeatCount="indefinite"/></circle></g>
+<g transform="translate(26 122)">
+<rect width="369" height="49" rx="10" fill="#16202C" stroke="#9BCC4C" stroke-opacity=".27"><animate attributeName="stroke-opacity" values=".2;.8;.2" dur="5s" begin="1.0499999999999998s" repeatCount="indefinite"/></rect>
+<rect x="8" y="8" width="49" height="33" rx="7" fill="#9BCC4C" fill-opacity=".12"/>
+<text x="32" y="30" text-anchor="middle" font-family="Consolas, monospace" font-weight="700" font-size="14" fill="#9BCC4C">SH</text>
+<text x="71" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" fill="#E6EDF5">Bash</text>
+<circle cx="350" cy="24" r="3" fill="#9BCC4C"><animate attributeName="opacity" values=".35;1;.35" dur="4s" begin="0.75s" repeatCount="indefinite"/></circle></g>
+
+</svg>
