@@ -1,0 +1,52 @@
+name: Refresh profile visuals
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate real public profile statistics
+        run: python3 scripts/update_stats.py
+        env:
+          PROFILE_USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake in both themes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/github-snake.svg?color_snake=%23F06022&color_dots=%23ebedf0,%23e0edc9,%23c2dc95,%239BCC4C,%236e9c2d
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=%23F06022&color_dots=%23161b22,%23263520,%23485f2e,%23779f3d,%239BCC4C
+
+      - name: Commit updated visuals
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-stats.svg assets/github-snake.svg assets/github-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "No visual changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh profile visuals"
+          git push origin "HEAD:${DEFAULT_BRANCH}"
